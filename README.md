@@ -12,7 +12,9 @@ This repository use [CaiT](https://github.com/rwightman/pytorch-image-models/blo
 ## Environment
 
 Ubuntu 18.04.5 LTS
+
 Intel® Core™ i7-3770 CPU @ 3.40GHz × 8
+
 GeForce GTX 1080/PCIe/SSE2
 
 ## Requirement
